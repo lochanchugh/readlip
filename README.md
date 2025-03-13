@@ -14,6 +14,9 @@ An immersive iOS app designed to teach lip-reading using various Apple framework
 - Comprehensive dictionary of lip shapes
 - Real-time lip-reading with instant feedback
 
+
+[Demo Link](https://drive.google.com/file/d/1OPlOf2av-m9EL_g7pbwWwQ9utzg6_TZd/view?usp=sharing)
+
 ## Screenshots
 ![Screenshot 1](Images/1.jpeg)
 ![Screenshot 2](Images/2.jpeg)
